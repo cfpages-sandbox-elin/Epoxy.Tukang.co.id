@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-07-03T03:41:40+00:00</lastmod>
+		<lastmod>2024-07-03T06:51:08+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2020/08/michellep.jpg</image:loc>
 		</image:image>
@@ -13,7 +13,31 @@
 			<image:loc>/wp-content/uploads/2020/08/smit.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/epoxy-floor-coating-ohio.jpg</image:loc>
+			<image:loc>/wp-content/uploads/elementor/thumbs/1_HY4rtS2oISMnSnkbk4VGQg-qqi6p795ryr5cuggehwmm3nowymqlar7hyklhnmhfo.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/jenis-cat-epoxy-lantai-qqhyrqno89z9g33salsgvmx6bbmryghtx251ngvp38.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/130400635_NjIwLTgyNy0zNGZiYmY5NjJh-qqhxss1s144bm7vzfzr0myiywdyanqp8s0lw1ypuis.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/Acrylic-epoxy-and-polyurethane-concrete-sealers_IMG-qqhvzbke3gih3sywo75bhz6dnel3mju6413lx9rttw.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/apakah-lantai-epoxy-beracun-qqhw7zmt4gdo6cdm1y1ghsfevbuym291yxot94x4g4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/4.-Teknik-Cor-Bangunan-Pengertian-Jenis-Bahan-dan-Cara-Membuatnya-Teknoscaff-1-qqhweuud1vs2zseiyewc7k1n3o0hugigkx9igwqkzo.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/nindya-karya-new-3-1024x724-1-qqayrzomthfsiubrxsi4zczwhn4ol7a2c2i1u5niys.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/Waterproofing-1-qqg91o6v9uqskw1eznz9j3s70cfjz0fa4bdeyiyf62.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/epoxy-floor-coating-ohio-qq7rbwejhp1fz1ahy0bt86j9imr2ptwgzb6c4s4zbe.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -807,10 +831,6 @@
 		<lastmod>2024-06-27T02:29:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/</loc>
-		<lastmod>2024-06-26T03:55:59+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/about/</loc>
 		<lastmod>2024-06-26T03:55:59+00:00</lastmod>
 	</url>
@@ -820,6 +840,10 @@
 	</url>
 	<url>
 		<loc>/testimonials/</loc>
+		<lastmod>2024-06-26T03:55:59+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/portfolio/</loc>
 		<lastmod>2024-06-26T03:55:59+00:00</lastmod>
 	</url>
 	<url>
